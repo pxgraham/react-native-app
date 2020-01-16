@@ -1,6 +1,6 @@
 {
   "main": "node_modules/expo/AppEntry.js",
-  "homepage": "http://pxgraham.github.io/react-native-app",
+  "homepage": "https://pxgraham.github.io/react-native-app",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
