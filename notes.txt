@@ -1,1 +1,2 @@
-// npx gh-pages -d web-build
+npx gh-pages -d web-build
+expo build:android/ios/wes
