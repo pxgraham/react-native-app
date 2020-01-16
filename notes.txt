@@ -1,2 +1,2 @@
 npx gh-pages -d web-build
-expo build:android/ios/wes
+expo build:android/ios/web
